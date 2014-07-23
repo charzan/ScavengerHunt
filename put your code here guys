@@ -1,7 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-</style>
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+	<script type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCEanVY3nbv5C586K53EeWq2Y0CECRjyHE">
+    </script> 
+    <title>Scavenger Hunt! </title>
+<h1>Scavenger Hunt!</h1>
 </head>
+<body>
+	<script>
+	$( ":header" ).css({ background: "#ccc", color: "blue" });
+	</script>
+</body>
 </html>
